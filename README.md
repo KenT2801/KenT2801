@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Ken 👋
 
-<!--
-**KenT2801/KenT2801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at **UTS Sydney** (AI & Data Analytics major, Statistics sub-major), graduating 2028.
 
-Here are some ideas to get you started:
+I'm building toward a career in **data analysis for finance**: credit risk, fraud detection and customer analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔨 What I'm working on
+- A 66-day sprint (Nov 2026 – Jan 2027) learning Python, SQL, statistics and ML **from the ground up**, writing every line myself
+- **Credit default risk model**: SQL features, scorecard, LightGBM, explainability *(Jan 2027)*
+- **Fraud detection** on transaction data *(Jan 2027)*
+- **Credit decision explainer**: turning a model's reasons into plain English with an LLM *(Feb 2027)*
+
+### 🧰 Learning
+Python · SQL · pandas · NumPy · scikit-learn · statistics · linear algebra
+
+### 📫 Find me
+[LinkedIn](YOUR-LINKEDIN-URL) · Sydney, Australia
