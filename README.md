@@ -14,4 +14,4 @@ I'm building toward a career in **data analysis for finance**: credit risk, frau
 Python · SQL · pandas · NumPy · scikit-learn · statistics · linear algebra
 
 ### 📫 Find me
-[LinkedIn](YOUR-LINKEDIN-URL) · Sydney, Australia
+[LinkedIn](https://www.linkedin.com/in/ken-trinh-40584432a/) · Sydney, Australia
